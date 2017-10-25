@@ -1,0 +1,16 @@
+set nocompatible
+syntax on
+set nu
+set ruler
+set tabstop=8
+set magic
+set cindent
+set foldmethod=manual
+set pastetoggle=<F2>
+set tags=./tags
+set autochdir
+set backspace=indent,eol,start      
+set ai!
+set list
+set listchars=tab:\>\ 
+set ff=unix
